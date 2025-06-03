@@ -1,1 +1,1 @@
-UiPath Solution guiode for Workflow Analyzer project
+UiPath Solution guide for Workflow Analyzer project. 
